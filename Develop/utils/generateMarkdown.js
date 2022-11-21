@@ -17,6 +17,7 @@ function renderLicenseBadge(license) {
     return "![License: CDDL 1.0](https://img.shields.io/badge/License-CDDL%201.0-blue.svg)"
   } else {
     return "";
+  }
 }
 
 // TODO: Create a function that returns the license link
